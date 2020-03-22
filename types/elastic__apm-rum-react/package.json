@@ -1,0 +1,36 @@
+{
+  "name": "@types/elastic__apm-rum-react",
+  "version": "1.0.0",
+  "description": "Typescript typings for Elasticsearch apm-rum-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+	"directory": "types/elastic__apm-rum-react"
+  },
+  "keywords": [
+    "typescript",
+    "type",
+    "elastic",
+    "apm-rum-react",
+    "elasticsearch"
+  ],
+  "contributors": [
+    {
+      "name": "David Radford",
+      "url": "https://github.com/dmradford"
+    },
+    {
+      "name": "Dobes Vandermeer",
+      "url": "https://github.com/dobesv"
+    }
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme"
+}
